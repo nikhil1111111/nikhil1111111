@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Nikhil
+# Hi there 👋
+## I'm Nikhil
 
 <!--
 **nikhil1111111/nikhil1111111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
